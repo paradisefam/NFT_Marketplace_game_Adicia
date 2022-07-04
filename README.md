@@ -7,13 +7,10 @@
 ## First Puzzle
 ![Mediaval](https://github.com/adi99/Adicia/blob/master/Voxel%20Second.jpg)
 ## Mediaval Room
-Knight | Solarized dark             |  Solarized Ocean
+Knight | Mystery Box              |  Mystery Box with Puzzle
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/adi99/Adicia/blob/master/0_Uqlbjsp_fuNVFEBO.gif) |  ![](https://github.com/adi99/Adicia/blob/master/Puzzle2.jpg)  |  ![](https://github.com/adi99/Adicia/blob/master/Puzzle3.jpg)
 
-![Knight](https://github.com/adi99/Adicia/blob/master/0_Uqlbjsp_fuNVFEBO.gif)
-![Mystery](https://github.com/adi99/Adicia/blob/master/Puzzle2.jpg)
-![First Puzzle](https://github.com/adi99/Adicia/blob/master/Puzzle3.jpg)
 The Adicia team is building a unique virtual world where players can play, own, and monetize content and gaming experiences. This will be Play To Earn (P2E) game similar to Minecraft or Sandbox but with a user generated Puzzle content like Optical Illusion and Mechanical Puzzle. <br />
 
 #### Web App
