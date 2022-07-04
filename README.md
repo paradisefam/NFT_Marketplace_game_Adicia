@@ -10,7 +10,7 @@
 Knight | Mystery Box              |  Mystery Box with Puzzle
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/adi99/Adicia/blob/master/0_Uqlbjsp_fuNVFEBO.gif) |  ![](https://github.com/adi99/Adicia/blob/master/Puzzle2.jpg)  |  ![](https://github.com/adi99/Adicia/blob/master/Puzzle3.jpg)
-
+## Second Puzzle
 <b> The Adicia team is building a unique virtual world where players can play, own, and monetize content and gaming experiences. This will be Play To Earn (P2E) game similar to Minecraft or Sandbox but with an in-build Game Maker which will allow the Player to make complex games (puzzle and other genres) without any technical knowledge.</b> <br />
 <b>The Voxel gives user a choice to create non-fungible, transferrable, scarce digital asset (NFT) very easily and anybody can build a level with their creativity and can monetize at NFT Marketplace.</b><br/>
 <b> <i>User-Generated Game Design and Monetization</i> are the main focus of this platform. We want it The AMAZON of NFT Games where User's can Build, Monetize and Review NFT Games</b>
