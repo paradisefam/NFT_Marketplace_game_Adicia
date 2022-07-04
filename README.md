@@ -12,7 +12,7 @@ Knight | Mystery Box              |  Mystery Box with Puzzle
 ![](https://github.com/adi99/Adicia/blob/master/0_Uqlbjsp_fuNVFEBO.gif) |  ![](https://github.com/adi99/Adicia/blob/master/Puzzle2.jpg)  |  ![](https://github.com/adi99/Adicia/blob/master/Puzzle3.jpg)
 
 <b> The Adicia team is building a unique virtual world where players can play, own, and monetize content and gaming experiences. This will be Play To Earn (P2E) game similar to Minecraft or Sandbox but with an in-build Game Maker which will allow the Player to make complex games (puzzle and other genres) without any technical knowledge.</b> <br />
-<b> User-generated game design and monetization are the main focus of this platform.</b>
+<b> <i>User-Generated Game Design and Monetization</i> are the main focus of this platform.</b>
 
 #### Web App
 User can play this Game on Oasis Emerald Testnet [Web](https://adikia.netlify.app/). <br />
