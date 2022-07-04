@@ -52,7 +52,7 @@ The game uses a variety of motions enabled by mobile device touchscreens to simu
 -  Turn Based game <br />
 - RPG adventure <br />
 <b>These templates will be inside the Game Maker.Users can Change the variable parameters of the script or Add multiple instances of same template/script to make complex Puzzle.</b> <br />
-User can Combine different Templates/Script to make Innovative Games inside the Metaverse. 
+<b>User can Combine different Templates/Script to make Innovative Games inside the Metaverse.</b>
 
 3- Visual Editor(similar to Unity Bolt) for game where User use visual scripting like Powerful flow control graphs (similar to Unreal Blueprints) for low-level logic and complex tasks. Elegant finite state machines (FSM) for high-level logic and easy state management. Create and modify entire graphs while in Play mode. <br />
 It's  unique runtime will save and propagate your changes, allowing you to prototype and build your game while playing it. <br />
