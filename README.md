@@ -59,7 +59,7 @@ The game uses a variety of motions enabled by mobile device touchscreens to simu
 It's  unique runtime will save and propagate your changes, allowing you to prototype and build your game while playing it. <br />
 
 ## [NFT GAME MarketPlace](https://github.com/adi99/NFT_Market)
-<b> The Rating and Review system needs to be added. It will take 10-15 days to finish it </b>
+<b> The Rating and Review system needs to be added. It will take 10-15 days to finish it </b> <br />
 1- The NFT Game Marketplace is an NFT marketplace where you can search and buy creator's ASSETS with Token to incorporate them into your Game. <br />
 2- Creator can build game with different assets and templates and monetize them by listing in the MarketPlace. <br />
 3- Creator can list both the Assets and Game in the NFT Marketplace and Monetize them according to their Ratings.<br />
