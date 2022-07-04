@@ -2,6 +2,14 @@
                                        Adicia ( Game and Game-Maker)
                                                   
 ![Open World](https://github.com/adi99/Adicia/blob/master/Voxel%20First.jpg)
+## Open World
+![First Puzzle](https://github.com/adi99/Adicia/blob/master/Puzzle.jpg)
+## First Puzzle
+![Mediaval](https://github.com/adi99/Adicia/blob/master/Voxel%20Second.jpg)
+## Mediaval Room
+![Knight](https://github.com/adi99/Adicia/blob/master/0_Uqlbjsp_fuNVFEBO.gif)
+![Mystery](https://github.com/adi99/Adicia/blob/master/Puzzle2.jpg)
+![First Puzzle](https://github.com/adi99/Adicia/blob/master/Puzzle3.jpg)
 The Adicia team is building a unique virtual world where players can play, own, and monetize content and gaming experiences. This will be Play To Earn (P2E) game similar to Minecraft or Sandbox but with a user generated Puzzle content like Optical Illusion and Mechanical Puzzle. <br />
 
 #### Web App
