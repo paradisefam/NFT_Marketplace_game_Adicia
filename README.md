@@ -39,25 +39,24 @@ The game uses a variety of motions enabled by mobile device touchscreens to simu
 1- Templates of Open world will be available which can costomized according to User's needs. They can also import Voxel Assets from any voxel editor or from web and can Use them to make Open World of their Choice. They can sell them into NFT MarketPlace and monetize them.
 
 2- To build different types of Puzzle, Script will be needed. For Players with no technical knowledge, there will be several Templates of different Puzzle like:- <br/>
-i- _  Optical Illusion <br />
-ii-_   Physics Based Puzzle (Finding Clue, sliding Puzzle, Combination Puzzle, Match3, jigsaw <br />
-iii-  Board game (Hitman Go) <br />
-iv-_  Point and Click game <br />
-v-_   Card battle game <br />
-vi-_  City Builder (construct building, gather resources defence kingdom) <br />
-vii-  Tower defence <br />
-Vii-  Turn Based game <br />
-viii- RPG adventure <br />
-These templates will be inside the Game Maker.Users can Change the variable parameters of the script or Add multiple instances of same template/script to make complex Puzzle. <br />
+-  Optical Illusion <br />
+-  Physics Based Puzzle (Finding Clue, sliding Puzzle, Combination Puzzle, Match3, jigsaw <br />
+-  Board game (Hitman Go) <br />
+-  Point and Click game <br />
+-  Card battle game <br />
+-  City Builder (construct building, gather resources defence kingdom) <br />
+-  Tower defence <br />
+-  Turn Based game <br />
+- RPG adventure <br />
+<b>These templates will be inside the Game Maker.Users can Change the variable parameters of the script or Add multiple instances of same template/script to make complex Puzzle.</b> <br />
 User can Combine different Templates/Script to make Innovative Games inside the Metaverse. 
 
 3- Visual Editor(similar to Unity Bolt) for game where User use visual scripting like Powerful flow control graphs (similar to Unreal Blueprints) for low-level logic and complex tasks. Elegant finite state machines (FSM) for high-level logic and easy state management. Create and modify entire graphs while in Play mode. <br />
 It's  unique runtime will save and propagate your changes, allowing you to prototype and build your game while playing it. <br />
-Full Codebase Compatibility: <br />
-Use any method, field, property or event from Script, any third-party plugin and even your custom scripts without any work required on your end. 
 
 ## MarketPlace
-1- The Marketplace is an NFT marketplace where you can search and buy creator's ASSETS with Token to incorporate them into your Game. <br />
+1- The NFT Game Marketplace is an NFT marketplace where you can search and buy creator's ASSETS with Token to incorporate them into your Game. <br />
 2- Creator can build game with different assets and templates and monetize them by listing in the MarketPlace. <br />
-3- Creator can list both the Assets and Game in the NFT Marketplace. 
+3- Creator can list both the Assets and Game in the NFT Marketplace and Monetize them according to their Ratings.
+4- The NFT Marketpalce is 
 
