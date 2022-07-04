@@ -15,7 +15,7 @@ Knight | Mystery Box              |  Mystery Box with Puzzle
 <b> User-generated game design and monetization are the main focus of this platform.</b>
 
 #### Web App
-User can play this Game on Oasis Emerald [Web](https://adikia.netlify.app/). <br />
+User can play this Game on Oasis Emerald Testnet [Web](https://adikia.netlify.app/). <br />
  
 #### Video
 This Puzzle's demonstration video is available at (https://www.youtube.com/watch?v=St6gajbpMg8). Web3 Integartion is not included in video because of time constraint.
