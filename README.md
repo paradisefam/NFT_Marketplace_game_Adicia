@@ -63,7 +63,7 @@ It's  unique runtime will save and propagate your changes, allowing you to proto
 3- Creator can list both the Assets and Game in the NFT Marketplace and Monetize them according to their Ratings.
 4- The Game in the NFT Marketpalce can be organized according to their Ratings.
 
-###Add the following to metamask:
+### Add the following to metamask:
 RPC HTTP endpoint: `https://testnet.emerald.oasis.dev`<br />
 RPC WebSockets endpoint: `wss://testnet.emerald.oasis.dev/ws` <br />
 Chain ID: `42261`<br />
