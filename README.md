@@ -56,9 +56,19 @@ User can Combine different Templates/Script to make Innovative Games inside the 
 3- Visual Editor(similar to Unity Bolt) for game where User use visual scripting like Powerful flow control graphs (similar to Unreal Blueprints) for low-level logic and complex tasks. Elegant finite state machines (FSM) for high-level logic and easy state management. Create and modify entire graphs while in Play mode. <br />
 It's  unique runtime will save and propagate your changes, allowing you to prototype and build your game while playing it. <br />
 
-## MarketPlace
+## NFT Game MarketPlace ([MarketPlace](https://github.com/adi99/NFT_Market))
 1- The NFT Game Marketplace is an NFT marketplace where you can search and buy creator's ASSETS with Token to incorporate them into your Game. <br />
 2- Creator can build game with different assets and templates and monetize them by listing in the MarketPlace. <br />
 3- Creator can list both the Assets and Game in the NFT Marketplace and Monetize them according to their Ratings.
-4- The NFT Marketpalce is 
+4- The Game in the NFT Marketpalce can be organized according to their Ratings.
+
+###Add the following to metamask:
+RPC HTTP endpoint: `https://testnet.emerald.oasis.dev`<br />
+RPC WebSockets endpoint: `wss://testnet.emerald.oasis.dev/ws` <br />
+Chain ID: `42261`<br />
+Block explorer: `https://testnet.explorer.emerald.oasis.dev`<br />
+Fund Wallet with TEST Rose Tokens: [https://docs.oasis.dev/general/manage-tokens/how-to-transfer-rose-into-emerald-paratime/](https://docs.oasis.dev/general/manage-tokens/how-to-transfer-rose-into-emerald-paratime/)
+
+
+
 
