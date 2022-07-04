@@ -37,7 +37,8 @@ The game uses a variety of motions enabled by mobile device touchscreens to simu
 
 # Future RoadMap
 ## Build Voxel Game Maker (Completed in 1.5-2 months)
-<b><i> The Game-Maker will be a download-able native application (Mac, Windows, Linux). A web application can be created for building Mini Games but to make Big Game Native application needs to be downloaded</i></b> <br/>
+<b><i> The Game-Maker will be a download-able native application (Mac, Windows, Linux). A web application can be created for building Mini Games but to make Big Game Native application needs to be downloaded. So we will have Web version of Game Maker for Mini Game and Desktop Apllication for Big Game. Players can Rate and Review these Games according to their Liking.</i></b> <br/>
+
 1- Templates of Open world will be available which can costomized according to User's needs. They can also import Voxel Assets from any voxel editor or from web and can Use them to make Open World of their Choice. They can sell them into NFT MarketPlace and monetize them.
 
 2- To build different types of Puzzle, Script will be needed. For Players with no technical knowledge, there will be several Templates of different Puzzle like:- <br/>
