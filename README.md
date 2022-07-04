@@ -58,7 +58,7 @@ The game uses a variety of motions enabled by mobile device touchscreens to simu
 3- Visual Editor (similar to Unity Bolt) for game where User use visual scripting like Powerful flow control graphs (similar to Unreal Blueprints) for low-level logic and complex tasks. Elegant finite state machines (FSM) for high-level logic and easy state management. Create and modify entire graphs while in Play mode. <br />
 It's  unique runtime will save and propagate your changes, allowing you to prototype and build your game while playing it. <br />
 
-## NFT Game MarketPlace [MarketPlace](https://github.com/adi99/NFT_Market)(Needs 10-15 days to be completed)
+## [NFT GAME MarketPlace](https://github.com/adi99/NFT_Market)(Needs 10-15 days to be completed)
 1- The NFT Game Marketplace is an NFT marketplace where you can search and buy creator's ASSETS with Token to incorporate them into your Game. <br />
 2- Creator can build game with different assets and templates and monetize them by listing in the MarketPlace. <br />
 3- Creator can list both the Assets and Game in the NFT Marketplace and Monetize them according to their Ratings.<br />
