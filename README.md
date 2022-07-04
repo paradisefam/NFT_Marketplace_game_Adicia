@@ -11,13 +11,14 @@ Knight | Mystery Box              |  Mystery Box with Puzzle
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/adi99/Adicia/blob/master/0_Uqlbjsp_fuNVFEBO.gif) |  ![](https://github.com/adi99/Adicia/blob/master/Puzzle2.jpg)  |  ![](https://github.com/adi99/Adicia/blob/master/Puzzle3.jpg)
 
-The Adicia team is building a unique virtual world where players can play, own, and monetize content and gaming experiences. This will be Play To Earn (P2E) game similar to Minecraft or Sandbox but with a user generated Puzzle content like Optical Illusion and Mechanical Puzzle. <br />
+<b> The Adicia team is building a unique virtual world where players can play, own, and monetize content and gaming experiences. This will be Play To Earn (P2E) game similar to Minecraft or Sandbox but with an in-build Game Maker which will allow the Player to make complex games (puzzle and other genres) without any technical knowledge.</b> <br />
+<b> User-generated game design and monetization are the main focus of this platform.</b>
 
 #### Web App
-User can play this Game on [Web] (https://adikia.netlify.app/). <br />
+User can play this Game on Oasis Emerald [Web](https://adikia.netlify.app/). <br />
  
 #### Video
-This Puzzle's demonstration video is available at (https://www.youtube.com/watch?v=St6gajbpMg8) 
+This Puzzle's demonstration video is available at (https://www.youtube.com/watch?v=St6gajbpMg8). Web3 Integartion is not included in video because of time constraint.
 ## Description
 This is a Voxel based puzzle game. The First Puzzle is based on optical Illusion similar to monument valley where user can manipulate impossible architecture and Second Puzzle is based on Physics (looking around, turning keys, and activating switches).This involve exploration of fantastic architecture and impossible geometry.
 
