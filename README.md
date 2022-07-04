@@ -7,6 +7,10 @@
 ## First Puzzle
 ![Mediaval](https://github.com/adi99/Adicia/blob/master/Voxel%20Second.jpg)
 ## Mediaval Room
+Knight | Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/adi99/Adicia/blob/master/0_Uqlbjsp_fuNVFEBO.gif) |  ![](https://github.com/adi99/Adicia/blob/master/Puzzle2.jpg)  |  ![](https://github.com/adi99/Adicia/blob/master/Puzzle3.jpg)
+
 ![Knight](https://github.com/adi99/Adicia/blob/master/0_Uqlbjsp_fuNVFEBO.gif)
 ![Mystery](https://github.com/adi99/Adicia/blob/master/Puzzle2.jpg)
 ![First Puzzle](https://github.com/adi99/Adicia/blob/master/Puzzle3.jpg)
