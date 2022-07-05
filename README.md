@@ -21,8 +21,8 @@ User can play this Game on Oasis Emerald Testnet [Web](https://adikia.netlify.ap
 #### Video
 This Puzzle's demonstration video is available at (https://www.youtube.com/watch?v=St6gajbpMg8). Web3 Integration is not included in video because of time constraint.<br />
 ### Game Play
-- Player will land on Metaverse where he can explore the Open-World <br />
-- Player needs to solve the Puzzle to move to next Metaverse Environment <br/>
+- Player will land on Metaverse where he can explore the Open-World. <br />
+- Player needs to solve the Puzzle to move to next Metaverse Environment. <br/>
 - Player will Earn NFT after solving the Puzzle and move to next Environment. <br/>
 - Player will move the next Environment and explore this World. <br />
 - Player will solve the next Puzzle and Earn NFT, which can monetized at Marketplace. <br />
