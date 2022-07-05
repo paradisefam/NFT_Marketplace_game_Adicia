@@ -20,12 +20,12 @@ Knight | Mystery Box              |  Mystery Box with Puzzle
 User can play this Game on Oasis Emerald Testnet [Web](https://adikia.netlify.app/). <br />
 #### Video
 This Puzzle's demonstration video is available at (https://www.youtube.com/watch?v=St6gajbpMg8). Web3 Integration is not included in video because of time constraint.<br />
-###Game Play
+### Game Play
 - Player will land on Metaverse where he can explore the Open-World <br />
 - Player needs to solve the Puzzle to move to next Metaverse Environment <br/>
 - Player will Earn NFT after solving the Puzzle and move to next Environment. <br/>
-- Player will move the next Environment and explore this. <br />
-- Player will solve the next Puzzle and Earn NFT <br />
+- Player will move the next Environment and explore this World. <br />
+- Player will solve the next Puzzle and Earn NFT, which can monetized at Marketplace. <br />
 ## Description
 This is a Voxel based puzzle game. The First Puzzle is based on optical Illusion similar to monument valley where user can manipulate impossible architecture and Second Puzzle is based on Physics (looking around, turning keys, and activating switches).This involve exploration of fantastic architecture and impossible geometry.
 
