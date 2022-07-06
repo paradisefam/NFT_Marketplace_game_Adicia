@@ -17,7 +17,7 @@ Knight | Mystery Box              |  Mystery Box with Puzzle
 <b>Gamers are our main audience who will earn NFT by playing it,but also creators who will build complex NFT games with templates, scripts and Visual Editors.</b>
 
 #### Web App
-User can play this Game on Oasis Emerald Testnet [Web](https://adikia.netlify.app/). And NFT minting with Game can be access at [Adicia Oasis]() <br />
+User can play this Game on Oasis Emerald Testnet [Web](https://adikia.netlify.app/). And NFT minting with Game can be access at [Adicia Oasis](https://adiciaoasis.netlify.app/) <br />
 #### Video
 This Puzzle's demonstration video is available at (https://www.youtube.com/watch?v=St6gajbpMg8). Web3 Integration is not included in video because of time constraint.<br />
 ### Game Play
