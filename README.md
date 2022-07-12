@@ -60,9 +60,12 @@ The game uses a variety of motions enabled by mobile device touchscreens to simu
 and many more genres of Games.  <br/>
 
 <b> 2- Building Better Open World:- </b> This game needs a bigger Open world which can be explored during Gameplay. Interactive elements can be placed inside the Open world which makes them more immersive. <br/>
+
 <b> 3- Better Integration of NFT:- </b> Players have a Open World which they can explore. Puzzles are placed inside the Open-World which when solved, move Players to next level of Metaverse(New World to explore). When Player Solved the Puzzle, they mint a NFT with HitPoints, AttackDamage and ShieldPoints. These NFTs can be Upgraded, bred, and battle with each other inside the Game. <br/>
 Players can also purchase Virtual land and in-game Assets as NFTs and Use them as an assets to build any genre of Games. <br/>
+
 <b> 4- Real-Time Card Battle System:- </b> Inside the Game NFTs can be minted, upgraded and bred. Players can play the Card battle with each other. Winner can earn NFTs and Points, which can be used to upgrade or bred(Combining two NFTs to mint new Powerful NFT).  <br/>
+
 <b> 5- NFT and NFT Game MarketPlace:- </b> We need a Marketplace where Creators can buy, sell and trade NFTs, NFTs Games, Virtual Land, Open-world, and in-game Assets. Users can rate and review the NFTs, which will improve purchasing decision process and Sales. <br/>
 
 ## Voxel Game-Maker:-
