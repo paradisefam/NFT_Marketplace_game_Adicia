@@ -47,23 +47,29 @@ The game uses a variety of motions enabled by mobile device touchscreens to simu
 ## Build Voxel Game Maker (Needs 1.5-2 months to be completed)
 <b><i> The Game-Maker will be a download-able native application (Mac, Windows, Linux). A web application can be created for building Mini Games but to make Big Game Native application needs to be downloaded. So we will have Web version of Game Maker for Mini Game and Desktop Apllication for Big Game. Players can Rate and Review these Games according to their Liking.</i></b> <br/>
 
-1- Templates of Open World and Puzzles will be available to costomized according to Player's needs. They can also import Voxel Assets from any voxel editor or from web and can Use them to make Open World of their Choice. They can sell them into NFT MarketPlace and monetize them.
+1- Adding More Levels:- There are only two levels of GamePlay is available to Play. We need at least 20-25 levels of Gameplay to make it engaging for players to play. We also need soundtracks to be included in the Game. The following genre of Games are needed to be included in the Game:-
+-  Optical Illusion 
+-  Physics-Based Puzzle (Finding Clue, sliding Puzzle, Combination Puzzle, Match3, jigsaw 
+-  Board game (Hitman Go) 
+-  Point and Click game 
+-  Card battle game 
+-  City Builder (construct building, gather resources defense kingdom) 
+-  Tower defence 
+-  Turn-Based game 
+-  RPG adventure
+and many more genres of Games.  <br/>
+2- Building Better Open World:- This game needs a bigger Open world which can be explored during Gameplay. Interactive elements can be placed inside the Open world which makes them more immersive. <br/>
+3- Better Integration of NFT:- Players have a Open World which they can explore. Puzzles are placed inside the Open-World which when solved, move Players to next level of Metaverse(New World to explore). When Player Solved the Puzzle, they mint a NFT with HitPoints, AttackDamage and ShieldPoints. These NFTs can be Upgraded, bred, and battle with each other inside the Game. <br/>
+Players can also purchase Virtual land and in-game Assets as NFTs and Use them as an assets to build any genre of Games. <br/>
+4- Real-Time Card Battle System:- Inside the Game NFTs can be minted, upgraded and bred. Players can play the Card battle with each other. Winner can earn NFTs and Points, which can be used to upgrade or bred(Combining two NFTs to mint new Powerful NFT).  <br/>
+5- NFT and NFT Game MarketPlace:- We need a Marketplace where Creators can buy, sell and trade NFTs, NFTs Games, Virtual Land, Open-world, and in-game Assets. Users can rate and review the NFTs, which will improve purchasing decision process and Sales. <br/>
 
-2- To build different types of Puzzle, Script will be needed. For Players with no technical knowledge, there will be several Templates of different Puzzle that will be available for modification and combination. Following are the Genre of Game Templates that will be available inside Game-maker   <br/>
--  Optical Illusion <br />
--  Physics Based Puzzle (Finding Clue, sliding Puzzle, Combination Puzzle, Match3, jigsaw <br />
--  Board game (Hitman Go) <br />
--  Point and Click game <br />
--  Card battle game <br />
--  City Builder (construct building, gather resources defence kingdom) <br />
--  Tower defence <br />
--  Turn Based game <br />
-- RPG adventure <br />
-<b>These templates will be inside the Game Maker.Users can Change the variable parameters of the script or Add multiple instances of same template/script to make complex Puzzle.</b> <br />
-<b>User can Combine different Templates/Script to make Innovative Games inside the Metaverse.</b>
+6- # Voxel Game-Maker:- This is the most difficult part of this Game Platform. Creators can use Assets and available scripts to build the Game.
+- Templates of Open World and Puzzles will be available to customize according to Player's needs. They can also import Voxel Assets from any voxel editor or from the web and then use them to make the Open World of their Choice. They can sell them as NFT into MarketPlace and monetize them.
+- To build different types of Games, Scripts will be needed. For Players with no technical knowledge, there will be several Templates of different genres of Games with scripts, will be available for modification and combination. With these templates available inside the Game Maker, Players can Change the variable parameters of the script or Add multiple instances of same template/script to make complex Games
+-Users can Combine different Templates/Script to make Innovative Games inside the Metaverse and monetize them into MarketPlace.
+- Visual Editor (similar to Unity Bolt) for a game where User uses visual scripting like Powerful flow control graphs (similar to Unreal Blueprints) for low-level logic and complex tasks. Elegant finite state machines (FSM) for high-level logic and easy state management. Create and modify entire graphs while in Play mode.  
 
-3- Visual Editor (similar to Unity Bolt) for game where User use visual scripting like Powerful flow control graphs (similar to Unreal Blueprints) for low-level logic and complex tasks. Elegant finite state machines (FSM) for high-level logic and easy state management. Create and modify entire graphs while in Play mode. <br />
-It's  unique runtime will save and propagate your changes, allowing you to prototype and build your game while playing it. <br />
 
 ## [NFT GAME MarketPlace](https://github.com/adi99/NFT_Market)
 <b> The Rating and Review system needs to be added. It will take 10-15 days to finish it </b> <br />
