@@ -58,6 +58,7 @@ The game uses a variety of motions enabled by mobile device touchscreens to simu
 -  Turn-Based game 
 -  RPG adventure
 and many more genres of Games.  <br/>
+
 2- Building Better Open World:- This game needs a bigger Open world which can be explored during Gameplay. Interactive elements can be placed inside the Open world which makes them more immersive. <br/>
 3- Better Integration of NFT:- Players have a Open World which they can explore. Puzzles are placed inside the Open-World which when solved, move Players to next level of Metaverse(New World to explore). When Player Solved the Puzzle, they mint a NFT with HitPoints, AttackDamage and ShieldPoints. These NFTs can be Upgraded, bred, and battle with each other inside the Game. <br/>
 Players can also purchase Virtual land and in-game Assets as NFTs and Use them as an assets to build any genre of Games. <br/>
