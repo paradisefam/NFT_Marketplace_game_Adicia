@@ -68,7 +68,7 @@ Players can also purchase Virtual land and in-game Assets as NFTs and Use them a
 
 <b> 5- NFT and NFT Game MarketPlace:- </b> We need a Marketplace where Creators can buy, sell and trade NFTs, NFTs Games, Virtual Land, Open-world, and in-game Assets. Users can rate and review the NFTs, which will improve purchasing decision process and Sales. <br/>
 
-## Voxel Game-Maker:-
+## Voxel Game-Maker (1.5-2 months to complete)
 This is the most difficult part of this Game Platform. Creators can use Assets and available scripts to build the Game.
 - Templates of Open World and Puzzles will be available to customize according to Player's needs. They can also import Voxel Assets from any voxel editor or from the web and then use them to make the Open World of their Choice. They can sell them as NFT into MarketPlace and monetize them.
 - To build different types of Games, Scripts will be needed. For Players with no technical knowledge, there will be several Templates of different genres of Games with scripts, will be available for modification and combination. With these templates available inside the Game Maker, Players can Change the variable parameters of the script or Add multiple instances of same template/script to make complex Games
