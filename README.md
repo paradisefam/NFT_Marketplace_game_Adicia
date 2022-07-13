@@ -18,7 +18,7 @@ Knight | Mystery Box              |  Mystery Box with Puzzle
 
 #### Web App
 User can play this Game on Oasis Emerald Testnet [Web](https://adikia.netlify.app/) <br /> 
-Game with NFT Minting on Oasis Emerald Testnet can be access at [Adicia Oasis](https://adiciaoasis.netlify.app/) <br />
+Game with NFT Minting on Oasis Mainnet can be access at [Adicia Oasis](https://adicianft.netlify.app/) <br />
 #### Video
 This Puzzle's demonstration video is available at (https://www.youtube.com/watch?v=St6gajbpMg8). Web3 Integration is not included in video because of time constraint.<br />
 ### Game Play
