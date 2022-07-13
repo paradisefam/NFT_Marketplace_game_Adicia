@@ -24,11 +24,12 @@ Game with NFT Minting on Oasis Mainnet can be access at [Adicia Oasis](https://a
 #### Video
 This Puzzle's demonstration video is available at (https://www.youtube.com/watch?v=St6gajbpMg8). Web3 Integration is not included in video because of time constraint.<br />
 ### Game Play
-- Player will land on Metaverse where he can explore the Open-World. <br />
-- Player needs to solve the Puzzle to move to next Metaverse Environment. <br/>
-- Player will Earn NFT after solving the Puzzle and move to next Environment. <br/>
-- Player will move the next Environment and explore this World. <br />
-- Player will solve the next Puzzle and Earn NFT, which can monetized at Marketplace. <br />
+- Player will land on Metaverse  where he can explore the Open-World. <br />
+- Player reached to the Optical Illusion Puzzle placed inside this World. <br/>
+- Player will mint NFT after solving the Puzzle and move to next world.  <br/>
+- Player reached to this next Environment (Medieval Interior) and explore this World. <br />
+- Player will solve the next Mystery Physics Puzzle. <br />
+- Player can mint their Second NFT and monetize both on NFT Marketplace. ,br />
 
 ## Description of Levels 
 This is a Voxel based puzzle game. The First Puzzle is based on optical Illusion similar to monument valley where user can manipulate impossible architecture and Second Puzzle is based on Physics (looking around, turning keys, and activating switches).This involve exploration of fantastic architecture and impossible geometry.
