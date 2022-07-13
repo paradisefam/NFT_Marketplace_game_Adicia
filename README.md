@@ -11,10 +11,12 @@ Knight | Mystery Box              |  Mystery Box with Puzzle
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/adi99/Adicia/blob/master/0_Uqlbjsp_fuNVFEBO.gif) |  ![](https://github.com/adi99/Adicia/blob/master/Puzzle2.jpg)  |  ![](https://github.com/adi99/Adicia/blob/master/Puzzle3.jpg)
 ## Second Puzzle
-<b> The Adicia team is building a unique virtual world where players can play, own, and monetize content and gaming experiences. This will be Play To Earn (P2E) game similar to Minecraft or Sandbox but with an in-build Game Maker which will allow the Player to make complex games (puzzle and other genres) without any technical knowledge.</b> <br />
+
+
+<b> The Adicia team is building a Voxel based unique virtual world where players can play, own, and monetize content and gaming experiences. A Play To Earn (P2E) game similar to Minecraft or Sandbox but with an in-build Game Maker which will allow the Player to make complex games (puzzle and other genres) without any technical knowledge.</b> <br />
 <b><i>User Generated Game Design and Monetization</i> is main focus of the this platform. Players are incentivised to not only Play-To-Earn (P2E), but also to build Games and Monetize them. We will have <i>A Metaverse game, A Game Maker</i> and <i>NFT Game MarketPlace</i> inside this Platform.</b><br/>
 
-<b>Gamers are our main audience who will earn NFT by playing it,but also creators who will build complex NFT games with templates, scripts and Visual Editors.</b>
+<b>Gamers are our main audience who will earn NFT by playing it, but also creators who will build complex NFT games with templates, scripts and Visual Editors.</b>
 
 #### Web App
 User can play this Game on Oasis Emerald Testnet [Web](https://adikia.netlify.app/) <br /> 
@@ -27,7 +29,8 @@ This Puzzle's demonstration video is available at (https://www.youtube.com/watch
 - Player will Earn NFT after solving the Puzzle and move to next Environment. <br/>
 - Player will move the next Environment and explore this World. <br />
 - Player will solve the next Puzzle and Earn NFT, which can monetized at Marketplace. <br />
-## Description
+
+## Description of these 
 This is a Voxel based puzzle game. The First Puzzle is based on optical Illusion similar to monument valley where user can manipulate impossible architecture and Second Puzzle is based on Physics (looking around, turning keys, and activating switches).This involve exploration of fantastic architecture and impossible geometry.
 
 ## Monument/Architecture Design
@@ -44,8 +47,6 @@ The player is challenged to figure out how to open each one – typically by und
 The game uses a variety of motions enabled by mobile device touchscreens to simulate actions in real life, such as looking around the device, turning keys, and activating switches. 
 
 # Future RoadMap
-## Build Voxel Game Maker (Needs 1.5-2 months to be completed)
-<b><i> The Game-Maker will be a download-able native application (Mac, Windows, Linux). A web application can be created for building Mini Games but to make Big Game Native application needs to be downloaded. So we will have Web version of Game Maker for Mini Game and Desktop Apllication for Big Game. Players can Rate and Review these Games according to their Liking.</i></b> <br/>
 
 <b> 1- Adding More Levels:- </b> There are only two levels of GamePlay is available to Play. We need at least 20-25 levels of Gameplay to make it engaging for players to play. We also need soundtracks to be included in the Game. The following genre of Games are needed to be included in the Game:-
 -  Optical Illusion 
@@ -68,12 +69,15 @@ Players can also purchase Virtual land and in-game Assets as NFTs and Use them a
 
 <b> 5- NFT and NFT Game MarketPlace:- </b> We need a Marketplace where Creators can buy, sell and trade NFTs, NFTs Games, Virtual Land, Open-world, and in-game Assets. Users can rate and review the NFTs, which will improve purchasing decision process and Sales. <br/>
 
-## Voxel Game-Maker (1.5-2 months to complete)
+## Build Voxel Game Maker (Needs 1.5-2 months to be completed)
+
 This is the most difficult part of this Game Platform. Creators can use Assets and available scripts to build the Game.
 - Templates of Open World and Puzzles will be available to customize according to Player's needs. They can also import Voxel Assets from any voxel editor or from the web and then use them to make the Open World of their Choice. They can sell them as NFT into MarketPlace and monetize them.
 - To build different types of Games, Scripts will be needed. For Players with no technical knowledge, there will be several Templates of different genres of Games with scripts, will be available for modification and combination. With these templates available inside the Game Maker, Players can Change the variable parameters of the script or Add multiple instances of same template/script to make complex Games
 -Users can Combine different Templates/Script to make Innovative Games inside the Metaverse and monetize them into MarketPlace.
-- <b><i>Visual Editor (similar to Unity Bolt)</i></b> for a game where User uses visual scripting like Powerful flow control graphs (similar to Unreal Blueprints) for low-level logic and complex tasks. Elegant finite state machines (FSM) for high-level logic and easy state management. Create and modify entire graphs while in Play mode.  
+- <b><i>Visual Editor (similar to Unity Bolt)</i></b> for a game where User uses visual scripting like Powerful flow control graphs (similar to Unreal Blueprints) for low-level logic and complex tasks. Elegant finite state machines (FSM) for high-level logic and easy state management. Create and modify entire graphs while in Play mode.
+
+<b><i> The Game-Maker will be a download-able native application (Mac, Windows, Linux). A web application can be created for building Mini Games but to make Big Game Native application needs to be downloaded. So we will have Web version of Game Maker for Mini Game and Desktop Apllication for Big Game. Players can Rate and Review these Games according to their Liking.</i></b> <br/>
 
 
 ## [NFT GAME MarketPlace](https://github.com/adi99/NFT_Market)
