@@ -30,7 +30,7 @@ This Puzzle's demonstration video is available at (https://www.youtube.com/watch
 - Player will move the next Environment and explore this World. <br />
 - Player will solve the next Puzzle and Earn NFT, which can monetized at Marketplace. <br />
 
-## Description of these 
+## Description of Levels 
 This is a Voxel based puzzle game. The First Puzzle is based on optical Illusion similar to monument valley where user can manipulate impossible architecture and Second Puzzle is based on Physics (looking around, turning keys, and activating switches).This involve exploration of fantastic architecture and impossible geometry.
 
 ## Monument/Architecture Design
