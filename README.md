@@ -29,7 +29,7 @@ This Puzzle's demonstration video is available at (https://www.youtube.com/watch
 - Player will mint NFT after solving the Puzzle and move to next world.  <br/>
 - Player reached to this next Environment (Medieval Interior) and explore this World. <br />
 - Player will solve the next Mystery Physics Puzzle. <br />
-- Player can mint their Second NFT and monetize both on NFT Marketplace. ,br />
+- Player can mint their Second NFT and monetize both on NFT Marketplace. <br />
 
 ## Description of Levels 
 This is a Voxel based puzzle game. The First Puzzle is based on optical Illusion similar to monument valley where user can manipulate impossible architecture and Second Puzzle is based on Physics (looking around, turning keys, and activating switches).This involve exploration of fantastic architecture and impossible geometry.
