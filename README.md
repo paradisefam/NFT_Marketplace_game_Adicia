@@ -73,8 +73,8 @@ Players can also purchase Virtual land and in-game Assets as NFTs and Use them a
 ## Build Voxel Game Maker (Needs 1.5-2 months to be completed)
 
 This is the most difficult part of this Game Platform. Creators can use Assets and available scripts to build the Game.
-- Templates of Open World and Puzzles will be available to customize according to Player's needs. They can also import Voxel Assets from any voxel editor or from the web and then use them to make the Open World of their Choice. They can sell them as NFT into MarketPlace and monetize them.
-- To build different types of Games, Scripts will be needed. For Players with no technical knowledge, there will be several Templates of different genres of Games with scripts, will be available for modification and combination. With these templates available inside the Game Maker, Players can Change the variable parameters of the script or Add multiple instances of same template/script to make complex Games
+- Templates of Open World and Puzzles will be available to customize according to Player's needs. They can also import Voxel Assets from any voxel editor or from the web and then use them to make the Open World of their Choice. They can sell them as NFT into MarketPlace and monetize them. <br />
+- To build different types of Games, Scripts will be needed. For Players with no technical knowledge, there will be several Templates of different genres of Games with scripts, will be available for modification and combination. With these templates available inside the Game Maker, Players can Change the variable parameters of the script or Add multiple instances of same template/script to make complex Games. <br />
 -Users can Combine different Templates/Script to make Innovative Games inside the Metaverse and monetize them into MarketPlace.
 - <b><i>Visual Editor (similar to Unity Bolt)</i></b> for a game where User uses visual scripting like Powerful flow control graphs (similar to Unreal Blueprints) for low-level logic and complex tasks. Elegant finite state machines (FSM) for high-level logic and easy state management. Create and modify entire graphs while in Play mode.
 
