@@ -23,7 +23,7 @@ Game with NFT Minting on Oasis Mainnet can be access at [Adicia Oasis](https://a
 #### Video
 This Puzzle's demonstration video is available at [Gameplay](https://www.youtube.com/watch?v=St6gajbpMg8). Web3 Integration is not included in video because of time constraint.<br />
 
-##Pitch Deck
+## Pitch Deck
 <b><i> The Full Road-Map of Adicia metaverse [PDF](https://github.com/adi99/Adicia/blob/master/Adicia_Metaverse.pdf) and [PPT](https://github.com/adi99/Adicia/blob/master/Adicia_Metaverse.pptx) </i></b> <br />
 
 ### Game Play
