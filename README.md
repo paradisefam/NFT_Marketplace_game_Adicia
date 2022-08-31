@@ -54,7 +54,7 @@ The game uses a variety of motions enabled by mobile device touchscreens to simu
 
 <b> 1- Adding More Levels:- </b> There are only two levels of GamePlay is available to Play. We need at least 20-25 levels of Gameplay to make it engaging for players to play. We also need soundtracks to be included in the Game. The following genre of Games are needed to be included in the Game:-
 -  Optical Illusion 
--  Physics-Based Puzzle (Finding Clue, sliding Puzzle, Combination Puzzle, Match3, jigsaw 
+-  Physics-Based Puzzle (Finding Clue, sliding Puzzle, Combination Puzzle, Match3, jigsaw) 
 -  Board game (Hitman Go) 
 -  Point and Click game 
 -  Card battle game 
